@@ -1,0 +1,23 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Saqlain Qasim portfolio preview</title>
+  <defs>
+    <radialGradient id="cyan" cx="20%" cy="20%" r="70%">
+      <stop offset="0" stop-color="#00C2FF" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#00C2FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="amber" cx="82%" cy="74%" r="62%">
+      <stop offset="0" stop-color="#F59E0B" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0A0A0F"/>
+  <rect width="1200" height="630" fill="url(#cyan)"/>
+  <rect width="1200" height="630" fill="url(#amber)"/>
+  <rect x="72" y="72" width="1056" height="486" rx="22" fill="#13131A" stroke="#00C2FF" stroke-width="3"/>
+  <rect x="112" y="112" width="116" height="116" rx="24" fill="#0F1018" stroke="#00C2FF" stroke-width="4"/>
+  <text x="170" y="187" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="48" fill="#FFFFFF">SQ</text>
+  <text x="112" y="314" font-family="Arial, sans-serif" font-weight="800" font-size="76" fill="#FFFFFF">Saqlain Qasim</text>
+  <text x="116" y="374" font-family="Arial, sans-serif" font-weight="700" font-size="34" fill="#00C2FF">WordPress Technical Specialist &amp; Project Coordinator</text>
+  <text x="116" y="438" font-family="Arial, sans-serif" font-size="28" fill="#E8E8E8">CMS delivery, performance, security, and cross-team project coordination.</text>
+  <text x="116" y="498" font-family="Arial, sans-serif" font-weight="700" font-size="24" fill="#F59E0B">Karachi, Pakistan | 100+ projects delivered</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t">
+  <title id="t">Oak River Living website preview</title>
+  <rect width="1200" height="800" fill="#10121A"/>
+  <rect x="82" y="76" width="1036" height="648" rx="28" fill="#FCFAF4"/>
+  <rect x="82" y="76" width="1036" height="58" rx="28" fill="#30463B"/>
+  <circle cx="123" cy="106" r="9" fill="#E8C16A"/><circle cx="153" cy="106" r="9" fill="#C98552"/><circle cx="183" cy="106" r="9" fill="#EDE4D2"/>
+  <rect x="132" y="174" width="936" height="286" rx="24" fill="#D4C2A4"/>
+  <path d="M132 458h936v-94c-78-30-143-30-212 0-93 41-160 30-243-22-92-58-210-31-282 28-63 52-122 63-199 35v53Z" fill="#78906E"/>
+  <rect x="166" y="510" width="312" height="34" rx="10" fill="#30463B"/>
+  <rect x="166" y="566" width="406" height="18" rx="8" fill="#8E8068"/>
+  <rect x="166" y="602" width="346" height="18" rx="8" fill="#B4A98F"/>
+  <rect x="698" y="510" width="148" height="112" rx="18" fill="#EFE5D2"/>
+  <rect x="874" y="510" width="148" height="112" rx="18" fill="#EFE5D2"/>
+  <text x="166" y="414" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#FCFAF4">Oak River Living</text>
+</svg>

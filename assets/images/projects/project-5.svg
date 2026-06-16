@@ -1,0 +1,17 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t">
+  <title id="t">Chisel and Groove website preview</title>
+  <rect width="1200" height="800" fill="#130E0A"/>
+  <rect x="84" y="78" width="1032" height="644" rx="28" fill="#FBF6ED"/>
+  <rect x="84" y="78" width="1032" height="56" rx="28" fill="#4B3426"/>
+  <circle cx="124" cy="106" r="9" fill="#A96F3A"/><circle cx="154" cy="106" r="9" fill="#C8995E"/><circle cx="184" cy="106" r="9" fill="#E6D1AE"/>
+  <rect x="140" y="178" width="410" height="290" rx="20" fill="#B17A45"/>
+  <rect x="166" y="398" width="358" height="34" rx="10" fill="#4B3426"/>
+  <rect x="608" y="190" width="350" height="36" rx="10" fill="#4B3426"/>
+  <rect x="608" y="260" width="412" height="20" rx="8" fill="#8D735B"/>
+  <rect x="608" y="298" width="348" height="20" rx="8" fill="#B9A58B"/>
+  <rect x="608" y="362" width="154" height="52" rx="14" fill="#A96F3A"/>
+  <rect x="140" y="544" width="206" height="92" rx="16" fill="#E9D7B9"/>
+  <rect x="382" y="544" width="206" height="92" rx="16" fill="#E9D7B9"/>
+  <rect x="624" y="544" width="206" height="92" rx="16" fill="#E9D7B9"/>
+  <text x="608" y="482" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#4B3426">Chisel &amp; Groove</text>
+</svg>

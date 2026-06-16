@@ -1,0 +1,16 @@
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Profile photo placeholder</title>
+  <desc id="desc">Abstract dark portrait placeholder for Saqlain Qasim</desc>
+  <defs>
+    <radialGradient id="g" cx="38%" cy="28%" r="70%">
+      <stop offset="0" stop-color="#00C2FF" stop-opacity=".75"/>
+      <stop offset=".42" stop-color="#7C3AED" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#11131D"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="800" fill="#0A0A0F"/>
+  <circle cx="400" cy="400" r="360" fill="url(#g)"/>
+  <circle cx="400" cy="326" r="122" fill="#E8E8E8" opacity=".9"/>
+  <path d="M190 710c26-138 100-219 210-219s184 81 210 219H190Z" fill="#E8E8E8" opacity=".9"/>
+  <path d="M112 122h576v576H112z" fill="none" stroke="#00C2FF" stroke-width="10" opacity=".35"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t">
+  <title id="t">Sage Mental Health website preview</title>
+  <rect width="1200" height="800" fill="#0B1110"/>
+  <rect x="84" y="78" width="1032" height="644" rx="28" fill="#F4F7F1"/>
+  <rect x="84" y="78" width="1032" height="56" rx="28" fill="#DDE8D4"/>
+  <circle cx="124" cy="106" r="9" fill="#7A9B76"/><circle cx="154" cy="106" r="9" fill="#9FB995"/><circle cx="184" cy="106" r="9" fill="#C7D9BD"/>
+  <rect x="142" y="190" width="416" height="42" rx="10" fill="#2F5F4A"/>
+  <rect x="142" y="256" width="520" height="22" rx="8" fill="#769A82"/>
+  <rect x="142" y="296" width="454" height="22" rx="8" fill="#9CB49D"/>
+  <rect x="142" y="358" width="168" height="54" rx="16" fill="#2F5F4A"/>
+  <rect x="720" y="186" width="270" height="330" rx="34" fill="#CFE2C3"/>
+  <path d="M812 392c-64-54-30-139 48-150 73 44 86 133 12 204-20-12-40-29-60-54Z" fill="#7A9B76"/>
+  <rect x="142" y="568" width="220" height="70" rx="18" fill="#E3EDDB"/>
+  <rect x="398" y="568" width="220" height="70" rx="18" fill="#E3EDDB"/>
+  <rect x="654" y="568" width="220" height="70" rx="18" fill="#E3EDDB"/>
+  <text x="142" y="494" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#17382B">Sage Mental Health</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t">
+  <title id="t">Ashlee Lewis Occupational Therapy website preview</title>
+  <rect width="1200" height="800" fill="#151018"/>
+  <rect x="84" y="78" width="1032" height="644" rx="28" fill="#FFF7F3"/>
+  <rect x="84" y="78" width="1032" height="56" rx="28" fill="#F1D4CA"/>
+  <circle cx="124" cy="106" r="9" fill="#C96F6F"/><circle cx="154" cy="106" r="9" fill="#E6A68A"/><circle cx="184" cy="106" r="9" fill="#F8DCCF"/>
+  <rect x="142" y="188" width="462" height="42" rx="10" fill="#8F5064"/>
+  <rect x="142" y="256" width="520" height="20" rx="8" fill="#B98692"/>
+  <rect x="142" y="292" width="430" height="20" rx="8" fill="#D1A8AE"/>
+  <rect x="142" y="350" width="172" height="54" rx="16" fill="#8F5064"/>
+  <rect x="710" y="174" width="296" height="344" rx="34" fill="#F3DCD2"/>
+  <circle cx="858" cy="298" r="76" fill="#E6A68A"/>
+  <path d="M792 420c48-54 119-54 166 0v50H792v-50Z" fill="#8F5064"/>
+  <rect x="142" y="568" width="248" height="70" rx="18" fill="#F5E5DF"/>
+  <rect x="424" y="568" width="248" height="70" rx="18" fill="#F5E5DF"/>
+  <text x="142" y="492" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#5B2D3D">Ashlee Lewis OT</text>
+</svg>

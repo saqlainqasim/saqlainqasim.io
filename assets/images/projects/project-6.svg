@@ -1,0 +1,14 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t">
+  <title id="t">The Villa Middleton website preview</title>
+  <rect width="1200" height="800" fill="#0E1118"/>
+  <rect x="84" y="78" width="1032" height="644" rx="28" fill="#F8F3EA"/>
+  <rect x="84" y="78" width="1032" height="56" rx="28" fill="#242A35"/>
+  <circle cx="124" cy="106" r="9" fill="#B9915C"/><circle cx="154" cy="106" r="9" fill="#DAC19B"/><circle cx="184" cy="106" r="9" fill="#F2E3C9"/>
+  <rect x="138" y="170" width="924" height="318" rx="24" fill="#D9C2A0"/>
+  <path d="M138 488h924V338c-80-68-189-74-284-10-86 58-177 54-252-13-117-104-262-30-388 50v123Z" fill="#6F7B6B"/>
+  <rect x="170" y="536" width="360" height="36" rx="10" fill="#242A35"/>
+  <rect x="170" y="596" width="444" height="18" rx="8" fill="#8B7A63"/>
+  <rect x="170" y="630" width="324" height="18" rx="8" fill="#BBA88C"/>
+  <rect x="782" y="540" width="180" height="62" rx="16" fill="#B9915C"/>
+  <text x="170" y="426" font-family="Arial, sans-serif" font-size="50" font-weight="700" fill="#F8F3EA">The Villa - Middleton</text>
+</svg>
